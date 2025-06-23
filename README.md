@@ -9,13 +9,14 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a B.Tech Computer Science student at **Veltech University**
-- 💡 I love building interactive, responsive UIs with **React**, **Tailwind CSS**, and **Framer Motion**
-- 💼 Worked as a **C# and Unity Developer Intern** at *AI ML Deftech Pvt Ltd*
-- 👨‍💻 Built **3D shooting simulations** and desktop apps using Unity and C#
-- 🛠️ Currently focused on mastering **DSA**, **React**, and **Spring Boot**
-- 🏆 2nd Prize in **Codeathon**, Winner of **Debugging** and **Technical Quiz** at COMSIC’2K25
-- 📫 Reach me at: **yadhidyaofficial@gmail.com**
+- 🎓 B.Tech CSE student at **Veltech University**
+- 💼 Former Intern at **AI ML Deftech Pvt Ltd** (C# & Unity Developer)
+- 🎮 Built a 4-lane **Advanced Weapons Simulator** using Unity & C#
+- 🌐 Love crafting responsive UIs with **React**, **Tailwind CSS**, and **Framer Motion**
+- 🛠️ Currently focusing on **DSA**, **React**, and **Spring Boot**
+- 🏆 2nd Prize in **Codeathon**, Winner of **Debugging** & **Technical Quiz** at COMSIC'2K25
+- 🌍 Portfolio: [yadhidya.github.io/portfolio](https://yadhidya.github.io/portfolio/)
+- 📫 Email: **ulliyadhidya6002@gmail.com**
 
 ---
 
@@ -29,7 +30,6 @@
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat&logo=unity)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
@@ -44,24 +44,25 @@
 
 ## 📌 Featured Projects
 
-- 🔗 [**Work Wagon**](#) – A local job-seeking platform  
-- 🔗 [**Advanced Weapons Simulator**](#) – 4-lane shooting simulation using Unity & C#
+- 🔫 **Advanced Weapons Simulator (Unity + C#)** – 4-lane shooting simulation  
+- 💼 **Work Wagon** – A local job-seeking web platform  
+- 🎨 **Personal Portfolio** – [Visit Here](https://yadhidya.github.io/portfolio/)
 
 ---
 
 ## 🌱 Currently Learning
 
-- 🌐 Full-Stack Web Development  
-- 📚 Spring Framework (Java)  
-- 💡 AI/ML Fundamentals  
-- 🎯 Aptitude & Communication Skills  
+- 📚 Spring Boot  
+- 💻 Full-Stack Development  
+- 🎯 Aptitude & Communication  
+- 🤖 AI/ML Fundamentals
 
 ---
 
 ## 📬 Let's Connect
 
 <p>
-  <a href="mailto:yadhidyaofficial@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:ulliyadhidya6002@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/yadhidya"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/u/yadhidya/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black" /></a>
 </p>
